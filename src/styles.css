@@ -4,5 +4,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 
 .player{
-    @apply text-4xl text-custom-green font-Bungiee;
+    @apply text-4xl text-custom-green font-Bungiee flex flex-col justify-items-center;
 }
