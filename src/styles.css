@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+.player{
+    @apply text-4xl text-custom-green font-Bungiee;
+}
